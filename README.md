@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-- 💡 Skilled in **MySQL**, **C++**,**C program** 
+- 💡 Skilled in **MySQL**, **C++**,**C program** and **Python**
 - ☁️ Exploring **Cloud Computing** concepts  
 - 🧠 Solving **DSA** problems regularly to improve logic and efficiency  
 - 🌱 Passionate about building real-world web applications  
