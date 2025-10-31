@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @HemanthR-MAX
-- 👀 I’m interested in Python...
-- 🌱 I’m currently learning Python and web development...
-- 💞️ I’m looking to collaborate on the skills abnd resources for the future...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Hemanth R
 
-<!---
-HemanthR-MAX/HemanthR-MAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 3rd-year Computer Science Engineering student at **JSS Science and Technology University, Mysuru**  
+💻 Full Stack Web Developer | Problem Solver | Cloud Enthusiast  
+
+
+## 🚀 About Me
+- 💡 Skilled in **MySQL**, **C++**,**C program** 
+- ☁️ Exploring **Cloud Computing** concepts  
+- 🧠 Solving **DSA** problems regularly to improve logic and efficiency  
+- 🌱 Passionate about building real-world web applications  
+
+
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL,MongoDB  
+**Languages:** C++, JavaScript  
+**Others:** Git, GitHub, Cloud Basics 
